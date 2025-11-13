@@ -104,10 +104,10 @@ Admin
 1 register [DONE]
 2 login [DONE]
 extra>> admin can also update his profile like photo and name and other details [DONE]
-3 post job with all details [DONE]
+3 post job with all details + he/she can add logo(missing) [DONE]
 4 get all list of applied job by employee[DONE]
 
-5 get single employee by admin after this admin can update status of job then employee will get the notification 
+5 get single employee by admin after this admin can update status of job then employee will get the notification of status         
 
 employee
 
