@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: jobportal-backend
+    env: node
+    buildCommand: npm install
+    startCommand: node server.js
+    envVars:
+      - key: NODE_VERSION
+        value: 22.15.0
+      - key: PORT
+        value: 5000
